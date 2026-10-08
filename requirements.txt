@@ -1,0 +1,7 @@
+xgboost>=2.0
+scikit-learn>=1.4
+pandas>=2.2
+numpy>=1.26
+torch>=2.2
+tensorboard>=2.16
+pyreadstat>=1.2
