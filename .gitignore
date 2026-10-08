@@ -2,5 +2,11 @@
 __pycache__/
 **/__pycache__/
 *.pyc
+
+data/raw/
+data/processed/
+
 outputs/runs/
+outputs/placeholder_scores.csv
+outputs/placeholder_model.json
 *.pt
